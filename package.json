@@ -1,4 +1,4 @@
 {
   "name": "Youtube-Downloader",
-  "main": "app.js"
+  "main": "index.js"
 }
